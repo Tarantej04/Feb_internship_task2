@@ -1,1 +1,5 @@
-# Feb_internship_task2
+## Setup Instructions
+
+python -m venv venv  
+venv\Scripts\activate  
+pip install -r requirements.txt
